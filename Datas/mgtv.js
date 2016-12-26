@@ -1,3 +1,4 @@
+import Promise from './promise.min'
 
 var Api = {
 
